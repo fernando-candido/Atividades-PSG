@@ -1,0 +1,9 @@
+1- Analisar as planilhas de RAW DATA
+2- Importar as planilhas para o SQL Server(CSV).
+3- Analisar os dados importados, e criar as pesquisar para Departamento, País, Funcionário.
+4- Criar visões:
+4.1- Para exibir os dados pessoais dos funcionários.
+4.2- Para exibir os dados de empresa dos funcionários.
+5- Criar StoreProcedures para busca do funcionário:
+5.1- FuncionarioID
+5.2- Chave
